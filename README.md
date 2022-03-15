@@ -16,14 +16,14 @@ It has the following data fields:
 
 ## Exploratory analysis
 
-word counts based on tracks and albums
-time series analysis of word counts
-distribution of word counts
+- word counts based on tracks and albums
+- time series analysis of word counts
+- distribution of word counts
 
 ## Text mining
-word cloud
-bigram network
-sentiment analysis (includes chord diagram)
+- word cloud
+- bigram network
+- sentiment analysis (includes chord diagram)
 
 This dataset was created by PromptCloud and contains around 5000 samples along with Track N, Lyric, technical information and other features such as:
 
