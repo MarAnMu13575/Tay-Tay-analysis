@@ -22,8 +22,8 @@ It has the following data fields:
 
 ## Text mining
 - word cloud
-- bigram network
-- sentiment analysis (includes chord diagram)
+- bigram network (no complete)
+- sentiment analysis (includes chord diagram) (no complete)
 
 This dataset was created by PromptCloud and contains around 5000 samples along with Track N, Lyric, technical information and other features such as:
 
